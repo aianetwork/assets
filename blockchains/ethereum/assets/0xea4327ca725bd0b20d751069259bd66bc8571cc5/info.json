@@ -1,0 +1,11 @@
+{
+    "name": "AIANetwork",
+    "symbol": "AIA",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://aiacoin.asia/",
+    "explorer": "https://etherscan.io/token/0xea4327ca725bd0b20d751069259bd66bc8571cc5",
+    "status": "abandoned",
+    "id": "0xea4327ca725bd0b20d751069259bd66bc8571cc5"
+}
